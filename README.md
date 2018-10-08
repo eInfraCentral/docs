@@ -1,2 +1,2 @@
-# docs
-Documentation of eInfraCentral Data model and APIs
+# Docs
+This project contains documents of eInfraCentral  
