@@ -4,9 +4,9 @@ This project contains documents of eInfraCentral platform, developed in the cont
 eInfracentral technology has been used for building the eInfraCentral catalogue (https://beta.einfracentral.eu), the Catalogue of the European Open Science Cloud Portal (https://catalogue.eosc-portal.eu) and the catalogue of service of OpenAire infrastructure (http://catalogue.openaire.eu).
 
 The docs describe: 
-- The service model, i.e., Service Description Template in xls, pdf, .json formats.
-- The Specifications and Architecture Design of eInfracentral Platform
-- The APIs documentation - available also at the developer section of the portal https://beta.einfracentral.eu/developers
+- The service model, i.e., Service Description Template in [xls](eInfraCentral-JNP-ServiceDescriptionTemplate.xlsx), [pdf](eInfraCentral-JNP-ServiceDescriptionTemplate.pdf), [.json](eInfraCentral_SDTv1.12.json) formats.
+- The [Specifications and Architecture Design](eInfraCentral_Architecture_Specs_v1.0.pdf) of eInfraCentral Platform
+- The [APIs documentation](eInfraCentral_APIs_v1.0.pdf) and [a guide on how Service providers can use it](EIC_APIs@HowTO.pdf). Detailed specifications are available also at the developer section of the portal https://beta.einfracentral.eu/developers
 
 
 
