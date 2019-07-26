@@ -1,0 +1,49 @@
+{
+  "title": "Vocabulary",
+  "properties": {
+    "description": {
+      "type": "string"
+    },
+    "extras": {
+      "patternProperties": {
+        ".{1,}": {
+          "type": "string"
+        }
+      },
+      "type": "object"
+    },
+    "id": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "parentId": {
+      "type": "string"
+    },
+    "type": {
+      "enum": [
+        "SUPERCATEGORY",
+        "CATEGORY",
+        "SUBCATEGORY",
+        "LANGUAGE",
+        "PLACE",
+        "TRL",
+        "PHASE",
+        "SCIENTIFIC_DOMAIN",
+        "SCIENTIFIC_SUBDOMAIN",
+        "TARGET_USERS",
+        "ACCESS_TYPE",
+        "ACCESS_MODE",
+        "FUNDED_BY",
+        "ORDER_TYPE"
+      ]
+    }
+  },
+  "required": [
+    "id",
+    "name",
+    "type"
+  ]
+
+}

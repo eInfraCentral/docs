@@ -1,0 +1,26 @@
+{
+  "title": "StatisticsResponse",
+  "properties": {
+    "stats": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "date": {
+              "type": "string",
+              "format": "date-time"
+            },
+            "value": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "date",
+            "value"
+          ]
+        }
+      ]
+    }
+  }
+}

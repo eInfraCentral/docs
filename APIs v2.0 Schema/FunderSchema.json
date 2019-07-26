@@ -1,0 +1,26 @@
+{
+  "title": "Funder",
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "logo": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "services": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    }
+  },
+  "required": [
+    "id",
+    "name",
+    "logo",
+    "services"
+  ]
+}

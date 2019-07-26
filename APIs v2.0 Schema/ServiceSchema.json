@@ -1,0 +1,260 @@
+{
+    "title": "Service",
+    "properties": {
+        "accessModes": {
+            "items": {
+                "type": "string"
+            },
+            "type": "array"
+        },
+        "accessPolicy": {
+            "type": "string"
+        },
+        "accessTypes": {
+            "items": {
+                "type": "string"
+            },
+            "type": "array"
+        },
+        "category": {
+            "type": "string"
+        },
+        "certifications": {
+            "items": {
+                "type": "string"
+            },
+            "type": "array"
+        },
+        "changeLog": {
+            "type": "string"
+        },
+        "description": {
+            "type": "string"
+        },
+        "funders": {
+            "items": {
+                "type": "string"
+            },
+            "type": "array"
+        },
+        "helpdesk": {
+            "type": "string"
+        },
+        "id": {
+            "type": "string"
+        },
+        "languages": {
+            "items": {
+                "type": "string"
+            },
+            "type": "array"
+        },
+        "lastUpdate": {
+          "type": [ "string", "number" ]
+        },
+        "logo": {
+            "type": "string"
+        },
+        "maintenance": {
+            "type": "string"
+        },
+        "manual": {
+            "type": "string"
+        },
+        "monitoring": {
+            "type": "string"
+        },
+        "multimediaUrls": {
+            "items": {
+                "type": "string"
+            },
+            "type": "array"
+        },
+        "name": {
+            "type": "string"
+        },
+        "options": {
+            "items": {
+                "properties": {
+                    "description": {
+                        "type": "string"
+                    },
+                    "id": {
+                        "type": "string"
+                    },
+                    "logo": {
+                        "type": "string"
+                    },
+                    "name": {
+                        "type": "string"
+                    },
+                    "url": {
+                        "type": "string"
+                    }
+                },
+                "required": [
+                    "id",
+                    "name",
+                    "description",
+                    "url"
+                ],
+                "type": "object"
+            },
+            "type": "array"
+        },
+        "order": {
+            "type": "string"
+        },
+        "orderType": {
+            "type": "string"
+        },
+        "ownerContact": {
+            "type": "string"
+        },
+        "ownerName": {
+            "type": "string"
+        },
+        "paymentModel": {
+            "type": "string"
+        },
+        "phase": {
+            "type": "string"
+        },
+        "places": {
+            "items": {
+                "type": "string"
+            },
+            "type": "array"
+        },
+        "pricing": {
+            "type": "string"
+        },
+        "privacyPolicy": {
+            "type": "string"
+        },
+        "providers": {
+            "items": {
+                "type": "string"
+            },
+            "type": "array"
+        },
+        "relatedServices": {
+            "items": {
+                "type": "string"
+            },
+            "type": "array"
+        },
+        "requiredServices": {
+            "items": {
+                "type": "string"
+            },
+            "type": "array"
+        },
+        "scientificDomains": {
+            "items": {
+                "type": "string"
+            },
+            "type": "array"
+        },
+        "scientificSubdomains": {
+            "items": {
+                "type": "string"
+            },
+            "type": "array"
+        },
+        "securityContact": {
+            "type": "string"
+        },
+        "securityName": {
+            "type": "string"
+        },
+        "sla": {
+            "type": "string"
+        },
+        "standards": {
+            "items": {
+                "type": "string"
+            },
+            "type": "array"
+        },
+        "subcategories": {
+            "items": {
+                "type": "string"
+            },
+            "type": "array"
+        },
+        "supercategory": {
+            "type": "string"
+        },
+        "supportContact": {
+            "type": "string"
+        },
+        "supportName": {
+            "type": "string"
+        },
+        "tagline": {
+            "type": "string"
+        },
+        "tags": {
+            "items": {
+                "type": "string"
+            },
+            "type": "array"
+        },
+        "targetUsers": {
+            "items": {
+                "type": "string"
+            },
+            "type": "array"
+        },
+        "termsOfUse": {
+            "type": "string"
+        },
+        "training": {
+            "type": "string"
+        },
+        "trl": {
+            "type": "string"
+        },
+        "url": {
+            "type": "string"
+        },
+        "useCases": {
+            "items": {
+                "type": "string"
+            },
+            "type": "array"
+        },
+        "userBaseList": {
+            "items": {
+                "type": "string"
+            },
+            "type": "array"
+        },
+        "userValue": {
+            "type": "string"
+        },
+        "version": {
+            "type": "string"
+        }
+    },
+  "required": [
+    "id",
+    "name",
+    "url",
+    "description",
+    "logo",
+    "providers",
+    "scientificDomains",
+    "scientificSubdomains",
+    "category",
+    "subcategories",
+    "supercategory",
+    "targetUsers",
+    "languages",
+    "places",
+    "phase",
+    "trl",
+    "orderType"
+  ]
+}

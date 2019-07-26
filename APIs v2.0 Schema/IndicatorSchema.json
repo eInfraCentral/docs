@@ -1,0 +1,34 @@
+{
+  "title": "Indicator",
+  "properties": {
+    "description": {
+      "type": "string"
+    },
+    "dimensions": {
+      "items": {
+        "enum": [ "time", "locations" ]
+      },
+      "type": "array"
+    },
+    "id": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "unit": {
+      "enum": [ "percentage", "numeric", "boolean" ]
+    },
+    "unitName": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "id",
+    "name",
+    "description",
+    "dimensions",
+    "unit",
+    "unitName"
+  ]
+}

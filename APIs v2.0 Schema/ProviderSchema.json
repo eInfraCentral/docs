@@ -1,0 +1,62 @@
+{
+  "title": "Provider",
+  "properties": {
+    "contactEmail": {
+      "type": "string"
+    },
+    "contactName": {
+      "type": "string"
+    },
+    "contactTel": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "id": {
+      "type": "string"
+    },
+    "logo": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "users": {
+      "items": {
+        "properties": {
+          "email": {
+            "type": "string"
+          },
+          "id": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          },
+          "surname": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "email"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "website": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "id",
+    "name",
+    "website",
+    "description",
+    "logo",
+    "contactName",
+    "contactEmail",
+    "contactTel"
+  ]
+}

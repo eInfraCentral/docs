@@ -1,0 +1,65 @@
+{
+  "title": "Measurement",
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "indicatorId": {
+      "type": "string"
+    },
+    "locations": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "rangeValue": {
+      "properties": {
+        "fromValue": {
+          "type": "string"
+        },
+        "toValue": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "fromValue",
+        "toValue"
+      ],
+      "type": [ "object" ]
+    },
+    "serviceId": {
+      "type": "string"
+    },
+    "time": {
+      "type": [ "string", "number" ]
+    },
+    "value": {
+      "type": [ "string" ]
+    },
+    "valueIsRange": {
+      "type": "boolean"
+    }
+  },
+  "if": {
+    "properties": {
+      "valueIsRange": {
+        "const": false
+      }
+    }
+  },
+  "then": {
+    "required": [ "value" ],
+    "not": { "required": [ "rangeValue" ] }
+  },
+  "else": {
+    "required": [ "rangeValue" ],
+    "not": { "required": [ "value" ] }
+  },
+  "required": [
+    "id",
+    "indicatorId",
+    "serviceId",
+    "valueIsRange"
+  ]
+}
