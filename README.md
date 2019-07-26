@@ -5,7 +5,7 @@ eInfracentral technology has been used for building the eInfraCentral catalogue 
 
 The docs describe: 
 - The service model, i.e., Service Description Template 
-  - *v1.12* [xls](eInfraCentral-SDTv1.12.xlsx), [pdf](eInfraCentral-SDTv1.12.pdf), [.json](eInfraCentral_SDTv1.12.json) formats.
+  - *v1.12* [xls](eInfraCentral_SDTv1.12.xlsx), [pdf](eInfraCentral_SDTv1.12.pdf), [.json](eInfraCentral_SDTv1.12.json) formats.
   - *v2.0* [xls](eInfraCentral-SDTv2.0.xlsx), [.json](eInfraCentral_SDTv2.0.json) formats.
 - The [Specifications and Architecture Design](eInfraCentral_Architecture_Specs_v1.0.pdf) of eInfraCentral Platform
 - The APIs documentation [v1.0](eInfraCentral_APIs_v1.0.pdf), [v2.0](eInfraCentral_APIs_v2.0.pdf), an [overview](eInfraCentral_APIs_v2.0_Overview.pdf) of the methods of APIv2.0 and [a guide on how Service providers can use it](EIC_APIs@HowTO.pdf). Detailed specifications are available also at the developer section of the portal https://www.einfracentral.eu/developers
