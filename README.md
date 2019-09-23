@@ -12,6 +12,6 @@ The docs describe:
 
 *Detailed specifications are available also at the developer section of the portal https://www.einfracentral.eu/developers*
 
-
+The eInfraCentral software is distributed under the [GPL 3.0](https://opensource.org/licenses/GPL-3.0) license.
 
 
