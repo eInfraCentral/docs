@@ -1,0 +1,114 @@
+[
+  {
+    "id": "phase-design",
+    "name": "Design",
+    "description": "Design study, business case, cost breakdown (TRL: 2)",
+    "parentId": null,
+    "type": "PHASE",
+    "extras": {}
+  },
+  {
+    "id": "phase-implementation",
+    "name": "Implementation",
+    "description": "Construction/set up and deployment (TRL: 5, 6, 7)",
+    "parentId": null,
+    "type": "PHASE",
+    "extras": {}
+  },
+  {
+    "id": "phase-retirement",
+    "name": "Retirement",
+    "description": "The service is not anymore offered",
+    "parentId": null,
+    "type": "PHASE",
+    "extras": {}
+  },
+  {
+    "id": "phase-other",
+    "name": "Other",
+    "description": null,
+    "parentId": null,
+    "type": "PHASE",
+    "extras": {}
+  },
+  {
+    "id": "phase-operation",
+    "name": "Operation",
+    "description": "Service offered and upgraded (TRL: 8, 9)",
+    "parentId": null,
+    "type": "PHASE",
+    "extras": {}
+  },
+  {
+    "id": "phase-discovery",
+    "name": "Discovery",
+    "description": "Researching users needs, exploring technological or policy constraints (TRL: 1,2)",
+    "parentId": null,
+    "type": "PHASE",
+    "extras": {}
+  },
+  {
+    "id": "phase-preparation",
+    "name": "Preparation",
+    "description": "Preparatory phase (TRL: 3)",
+    "parentId": null,
+    "type": "PHASE",
+    "extras": {}
+  },
+  {
+    "id": "phase-planned",
+    "name": "Planned",
+    "description": "A plan to develop the service is defined (TRL: 3, 4)",
+    "parentId": null,
+    "type": "PHASE",
+    "extras": {}
+  },
+  {
+    "id": "phase-termination",
+    "name": "Termination",
+    "description": "Dissolution, dismantling",
+    "parentId": null,
+    "type": "PHASE",
+    "extras": {}
+  },
+  {
+    "id": "phase-beta",
+    "name": "Beta",
+    "description": "Service being developed while available for testing publicly (TRL: 7)",
+    "parentId": null,
+    "type": "PHASE",
+    "extras": {}
+  },
+  {
+    "id": "phase-production",
+    "name": "Production",
+    "description": "Service available in the live environment meeting security/performance requirements; (TRL: 8, 9)",
+    "parentId": null,
+    "type": "PHASE",
+    "extras": {}
+  },
+  {
+    "id": "phase-alpha",
+    "name": "Alpha",
+    "description": "Prototype/test service available for closed set of users; (TRL: 5, 6)",
+    "parentId": null,
+    "type": "PHASE",
+    "extras": {}
+  },
+  {
+    "id": "phase-in_containment",
+    "name": "In containment",
+    "description": "The service is active, but generally not available to new customers",
+    "parentId": null,
+    "type": "PHASE",
+    "extras": {}
+  },
+  {
+    "id": "phase-concept_development",
+    "name": "Concept development",
+    "description": "Concept screening, funding concept (TRL: 1)",
+    "parentId": null,
+    "type": "PHASE",
+    "extras": {}
+  }
+]

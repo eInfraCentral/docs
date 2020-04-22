@@ -1,0 +1,947 @@
+[
+  {
+    "id": "ffg",
+    "fundingOrganisation": "Austrian Research Promotion Agency",
+    "organisationLocalLanguage": "Förderstelle für wirtschaftsnahe Forschung",
+    "acronym": "FFG",
+    "country": "Austria"
+  },
+  {
+    "id": "dff",
+    "fundingOrganisation": "The Danish Council for Independent Research",
+    "organisationLocalLanguage": "Det Frie Forskningsråd",
+    "acronym": "DFF",
+    "country": "Denmark"
+  },
+  {
+    "id": "dgo6",
+    "fundingOrganisation": "General Operational Directorate for Economy, Employment and Research",
+    "organisationLocalLanguage": "Direction général opérationnelle de l'économie, de l'emploi et de la recherche",
+    "acronym": "DGO6",
+    "country": "Belgium"
+  },
+  {
+    "id": "epsrc",
+    "fundingOrganisation": "Engineering and Physical Sciences Research Council",
+    "organisationLocalLanguage": "Engineering and Physical Sciences Research Council",
+    "acronym": "EPSRC",
+    "country": "United Kingdom"
+  },
+  {
+    "id": "etag",
+    "fundingOrganisation": "Estonian Research Council",
+    "organisationLocalLanguage": "Eesti Teadusagentuur",
+    "acronym": "ETAG",
+    "country": "Estonia"
+  },
+  {
+    "id": "ancs",
+    "fundingOrganisation": "National Authority for Scientific Research",
+    "organisationLocalLanguage": "Autoritatea Naţională pentru Cercetare Ştiinţifică",
+    "acronym": "ANCS",
+    "country": "Romania"
+  },
+  {
+    "id": "forte",
+    "fundingOrganisation": "Swedish Research Council for Health, Working Life and Welfare",
+    "organisationLocalLanguage": "Forskningsrådet för hälsa, arbetsliv och välfärd",
+    "acronym": "FORTE",
+    "country": "Sweden"
+  },
+  {
+    "id": "sgpi",
+    "fundingOrganisation": "Secretariat-General for Investment",
+    "organisationLocalLanguage": "Secrétariat général pour l'investissement",
+    "acronym": "SGPI",
+    "country": "France"
+  },
+  {
+    "id": "anr",
+    "fundingOrganisation": "French National Research Agency",
+    "organisationLocalLanguage": "Agence Nationale de la Recherche",
+    "acronym": "ANR",
+    "country": "France"
+  },
+  {
+    "id": "dlr",
+    "fundingOrganisation": "German Aerospace Center",
+    "organisationLocalLanguage": "Deutsches Zentrum für Luft- und Raumfahrt",
+    "acronym": "DLR",
+    "country": "Germany"
+  },
+  {
+    "id": "vr",
+    "fundingOrganisation": "Swedish Research Council",
+    "organisationLocalLanguage": "Vetenskapsrådet",
+    "acronym": "VR",
+    "country": "Sweden"
+  },
+  {
+    "id": "fom",
+    "fundingOrganisation": "Foundation for Fundamental Research on Matter",
+    "organisationLocalLanguage": "Fundamenteel Onderzoek der Materie",
+    "acronym": "FOM",
+    "country": "Netherlands"
+  },
+  {
+    "id": "stw",
+    "fundingOrganisation": "Technology Foundation",
+    "organisationLocalLanguage": "Voorheen Technologiestichting",
+    "acronym": "STW",
+    "country": "Netherlands"
+  },
+  {
+    "id": "sea",
+    "fundingOrganisation": "Swedish Energy Agency",
+    "organisationLocalLanguage": "Energimyndigheten",
+    "acronym": "SEA",
+    "country": "Sweden"
+  },
+  {
+    "id": "mse",
+    "fundingOrganisation": "Ministry of Science and Education Republic of Croatia",
+    "organisationLocalLanguage": "Ministarstvo znanosti i obrazovanja Republika Hrvatska",
+    "acronym": "MSE",
+    "country": "Croatia"
+  },
+  {
+    "id": "uefiscdi-cncs",
+    "fundingOrganisation": "Executive Agency for Higher Education, Research, Development and Innovation Funding",
+    "organisationLocalLanguage": "Unitatea Executiva pentru Finantarea Invatamantului Superior, a Cercetarii, Dezvoltarii si Inovarii",
+    "acronym": "UEFISCDI-CNCS",
+    "country": "Romania"
+  },
+  {
+    "id": "nrf",
+    "fundingOrganisation": "National Research Foundation",
+    "organisationLocalLanguage": "",
+    "acronym": "NRF",
+    "country": "South Africa"
+  },
+  {
+    "id": "cnpq",
+    "fundingOrganisation": "National Council for Scientific and Technological Development",
+    "organisationLocalLanguage": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+    "acronym": "CNPq",
+    "country": "Brazil"
+  },
+  {
+    "id": "ifd",
+    "fundingOrganisation": "Innovation Fund Denmark",
+    "organisationLocalLanguage": "",
+    "acronym": "IFD",
+    "country": ""
+  },
+  {
+    "id": "ademe",
+    "fundingOrganisation": "Agency for Environment and Energy Management",
+    "organisationLocalLanguage": "Agence de l'environnement et la maîtrise de l'énergie",
+    "acronym": "ADEME",
+    "country": "France"
+  },
+  {
+    "id": "bmbf",
+    "fundingOrganisation": "Federal Ministry of Education and Research",
+    "organisationLocalLanguage": "Bundesministerium für Bildung und Forschung",
+    "acronym": "BMBF",
+    "country": "Germany"
+  },
+  {
+    "id": "arrs",
+    "fundingOrganisation": "Slovenian Research Agency",
+    "organisationLocalLanguage": "Javna Agencija za Raziskovalno Dejavnost Republike Slovenije",
+    "acronym": "ARRS",
+    "country": "Slovenia"
+  },
+  {
+    "id": "dfg",
+    "fundingOrganisation": "German Research Foundation",
+    "organisationLocalLanguage": "Deutsche Forschungsgemeinschaft",
+    "acronym": "DFG",
+    "country": "Germany"
+  },
+  {
+    "id": "arc",
+    "fundingOrganisation": "Australian Research Council",
+    "organisationLocalLanguage": "Australian Research Council",
+    "acronym": "ARC",
+    "country": "Australia"
+  },
+  {
+    "id": "most",
+    "fundingOrganisation": "Ministry of Science and Technology of the People's Republic of China",
+    "organisationLocalLanguage": "中华人民共和国科学技术部",
+    "acronym": "MOST",
+    "country": "China"
+  },
+  {
+    "id": "gacr",
+    "fundingOrganisation": "Czech Science Foundation",
+    "organisationLocalLanguage": "Grantová agentura České republiky",
+    "acronym": "GACR",
+    "country": "Czech Republic"
+  },
+  {
+    "id": "ncbir",
+    "fundingOrganisation": "National Centre for Research and Development",
+    "organisationLocalLanguage": "Narodowe Centrum Badań i Rozwoju",
+    "acronym": "NCBiR",
+    "country": "Poland"
+  },
+  {
+    "id": "mistra",
+    "fundingOrganisation": "Swedish Foundation for Strategic Environmental Research",
+    "organisationLocalLanguage": "Stiftelsen för miljöstrategisk forskning",
+    "acronym": "MISTRA",
+    "country": "Sweden"
+  },
+  {
+    "id": "sepa",
+    "fundingOrganisation": "Swedish Environmental Protection Agency",
+    "organisationLocalLanguage": "Naturvårdsverket",
+    "acronym": "SEPA",
+    "country": "Sweden"
+  },
+  {
+    "id": "mita",
+    "fundingOrganisation": "Agency for Science, Innovation and Technology",
+    "organisationLocalLanguage": "Mokslo, inovacijų ir technologijų agentūra",
+    "acronym": "MITA",
+    "country": "Lithuania"
+  },
+  {
+    "id": "ukri",
+    "fundingOrganisation": "UK Research and Innovation",
+    "organisationLocalLanguage": "UK Research and Innovation",
+    "acronym": "UKRI",
+    "country": "United Kingdom"
+  },
+  {
+    "id": "tubitak",
+    "fundingOrganisation": "The Scientific and Technological Research Council of Turkey",
+    "organisationLocalLanguage": "Türkiye Bilimsel ve Teknolojik Araştırma Kurumu TUBITAK",
+    "acronym": "TUBITAK",
+    "country": "Turkey"
+  },
+  {
+    "id": "nkfia",
+    "fundingOrganisation": "National Research, Development and Innovation Fund",
+    "organisationLocalLanguage": "Nemzeti Kutatási, Fejlesztési és Innovaciós Alap",
+    "acronym": "NKFIA",
+    "country": "Hungary"
+  },
+  {
+    "id": "dashe",
+    "fundingOrganisation": "Danish Agency for Science and Higher Education",
+    "organisationLocalLanguage": "Styrelsen for Forskning og Uddannelse",
+    "acronym": "DASHE",
+    "country": "Denmark"
+  },
+  {
+    "id": "rpf",
+    "fundingOrganisation": "Research Promotion Foundation",
+    "organisationLocalLanguage": "Ίδρυμα Προώθησης Έρευνας",
+    "acronym": "RPF",
+    "country": "Cyprus"
+  },
+  {
+    "id": "tekes",
+    "fundingOrganisation": "TEKES Finland",
+    "organisationLocalLanguage": "Teknologian kehittämiskeskus",
+    "acronym": "TEKES",
+    "country": "Finland"
+  },
+  {
+    "id": "nsf",
+    "fundingOrganisation": "National Science Foundation",
+    "organisationLocalLanguage": "National Science Foundation",
+    "acronym": "NSF",
+    "country": "United States"
+  },
+  {
+    "id": "sfi",
+    "fundingOrganisation": "Science Foundation Ireland",
+    "organisationLocalLanguage": "Fondúireacht Eolaíochta Éireann",
+    "acronym": "SFI",
+    "country": "Ireland"
+  },
+  {
+    "id": "nserc",
+    "fundingOrganisation": "Natural Sciences and Engineering Research Council of Canada",
+    "organisationLocalLanguage": "Natural Sciences and Engineering Research Council of Canada",
+    "acronym": "NSERC",
+    "country": "Canada"
+  },
+  {
+    "id": "wwtf",
+    "fundingOrganisation": "Vienna Science and Technology Fund",
+    "organisationLocalLanguage": "Wiener Wissenschafts-, Forschungs-, und Technologiefonds",
+    "acronym": "WWTF",
+    "country": "Austria"
+  },
+  {
+    "id": "mineco",
+    "fundingOrganisation": "Ministry for Economy and Competitveness",
+    "organisationLocalLanguage": "Ministerio de Economía, Industria y Competitividad",
+    "acronym": "MINECO",
+    "country": "Spain"
+  },
+  {
+    "id": "fnrs",
+    "fundingOrganisation": "Fonds National de la Recherche Scientifique",
+    "organisationLocalLanguage": "Fonds National de la Recherche Scientifique",
+    "acronym": "FNRS",
+    "country": "Belgium"
+  },
+  {
+    "id": "jst",
+    "fundingOrganisation": "Japanese Science and Technology Agency",
+    "organisationLocalLanguage": "科学技術振興機構",
+    "acronym": "JST",
+    "country": "Japan"
+  },
+  {
+    "id": "dlrpma",
+    "fundingOrganisation": "DLR Project Management Agency",
+    "organisationLocalLanguage": "",
+    "acronym": "DLRPMA",
+    "country": ""
+  },
+  {
+    "id": "cnr",
+    "fundingOrganisation": "National Research Council",
+    "organisationLocalLanguage": "Consiglio Nazionale delle Richerche",
+    "acronym": "CNR",
+    "country": "Italy"
+  },
+  {
+    "id": "fwf",
+    "fundingOrganisation": "Austrian Science Fund",
+    "organisationLocalLanguage": "Fonds zur Förderung der wissenschaftlichen Forschung",
+    "acronym": "FWF",
+    "country": "Austria"
+  },
+  {
+    "id": "oeaw",
+    "fundingOrganisation": "Austrian Academy of Sciences",
+    "organisationLocalLanguage": "österreichische Akademie der Wissenschaften",
+    "acronym": "OeAW",
+    "country": "Austria"
+  },
+  {
+    "id": "bbsrc",
+    "fundingOrganisation": "Biotechnology and Biological Sciences Research Council",
+    "organisationLocalLanguage": "Biotechnology and Biological Sciences Research Council",
+    "acronym": "BBSRC",
+    "country": "United Kingdom"
+  },
+  {
+    "id": "fnr",
+    "fundingOrganisation": "National Research Fund",
+    "organisationLocalLanguage": "Fonds National de la Recherche",
+    "acronym": "FNR",
+    "country": "Luxembourg"
+  },
+  {
+    "id": "mestd",
+    "fundingOrganisation": "Ministry of Education, Science and Technological Development of Republic of Serbia (MESTD)",
+    "organisationLocalLanguage": "Ministarstvo prosvete, nauke i tehnološkog razvoja",
+    "acronym": "MESTD",
+    "country": "Serbia"
+  },
+  {
+    "id": "viaa",
+    "fundingOrganisation": "State Education Development Agency",
+    "organisationLocalLanguage": "Valsts izglitibas attistibas agentura",
+    "acronym": "VIAA",
+    "country": "Latvia"
+  },
+  {
+    "id": "nsfe",
+    "fundingOrganisation": "NSF Europe",
+    "organisationLocalLanguage": "",
+    "acronym": "NSFE",
+    "country": "Europe"
+  },
+  {
+    "id": "wt",
+    "fundingOrganisation": "Wellcome trust",
+    "organisationLocalLanguage": "Wellcome trust",
+    "acronym": "WT",
+    "country": "United Kingdom"
+  },
+  {
+    "id": "oenfte",
+    "fundingOrganisation": "National Foundation for Research, Technology and Development",
+    "organisationLocalLanguage": "österreichische Nationalstiftung für Forschung, Technologie und Entwicklung",
+    "acronym": "OeNFTE",
+    "country": "Austria"
+  },
+  {
+    "id": "kaws",
+    "fundingOrganisation": "Knut and Alice Wallenberg Foundation",
+    "organisationLocalLanguage": "Knut och Alice Wallenbergs Stiftelse",
+    "acronym": "KAWS",
+    "country": "Sweden"
+  },
+  {
+    "id": "ffai",
+    "fundingOrganisation": "Finnish Funding Agency for Innovation",
+    "organisationLocalLanguage": "Innovaatiorahoituskeskus Tekes",
+    "acronym": "FFAI",
+    "country": "Finland"
+  },
+  {
+    "id": "csf",
+    "fundingOrganisation": "Croatian Science Foundation",
+    "organisationLocalLanguage": "Hrvatska Zaklada za Znanost",
+    "acronym": "CSF",
+    "country": "Croatia"
+  },
+  {
+    "id": "trcn",
+    "fundingOrganisation": "The Research Council of Norway",
+    "organisationLocalLanguage": "Forskningsrådet",
+    "acronym": "TRCN",
+    "country": "Norway"
+  },
+  {
+    "id": "irc",
+    "fundingOrganisation": "Irish Research Council",
+    "organisationLocalLanguage": "An Chomhairle um Thaighde in Eirinn",
+    "acronym": "IRC",
+    "country": "Ireland"
+  },
+  {
+    "id": "forth",
+    "fundingOrganisation": "Foundation for Research and Technology",
+    "organisationLocalLanguage": "Ίδρυμα Τεχνολογίας και Έρευνας",
+    "acronym": "FORTH",
+    "country": "Greece"
+  },
+  {
+    "id": "rj",
+    "fundingOrganisation": "The Swedish Foundation for Humanities and Social Sciences",
+    "organisationLocalLanguage": "Riksbankens Jubileumsfond",
+    "acronym": "RJ",
+    "country": "Sweden"
+  },
+  {
+    "id": "dnrf",
+    "fundingOrganisation": "Danish National Research Foundation",
+    "organisationLocalLanguage": "Danmarks Grundforskiningsfond",
+    "acronym": "DNRF",
+    "country": "Denmark"
+  },
+  {
+    "id": "cnrs",
+    "fundingOrganisation": "National Centre for Scientific Research",
+    "organisationLocalLanguage": "Centre National de la Recherche Scientifique",
+    "acronym": "CNRS",
+    "country": "France"
+  },
+  {
+    "id": "snf",
+    "fundingOrganisation": "Swiss National Science Foundation",
+    "organisationLocalLanguage": "Schweizerischer Nationalfonds",
+    "acronym": "SNF",
+    "country": "Switzerland"
+  },
+  {
+    "id": "snsb",
+    "fundingOrganisation": "Swedish National Space Board",
+    "organisationLocalLanguage": "Rymdstyrelsen",
+    "acronym": "SNSB",
+    "country": "Sweden"
+  },
+  {
+    "id": "stfc",
+    "fundingOrganisation": "Science and Technology Facilities Council",
+    "organisationLocalLanguage": "Science and Technology Facilities Council",
+    "acronym": "STFC",
+    "country": "United Kingdom"
+  },
+  {
+    "id": "ncn",
+    "fundingOrganisation": "National Science Center",
+    "organisationLocalLanguage": "Narodowe Centrum Nauki",
+    "acronym": "NCN",
+    "country": "Poland"
+  },
+  {
+    "id": "mgrt",
+    "fundingOrganisation": "Ministry for Economic Development and Technology",
+    "organisationLocalLanguage": "Ministrstvo za gospodarski razvoj in tehnologijo",
+    "acronym": "MGRT",
+    "country": "Slovenia"
+  },
+  {
+    "id": "fts",
+    "fundingOrganisation": "Fritz Thyssen Foundation",
+    "organisationLocalLanguage": "Fritz Thyssen Stiftung",
+    "acronym": "FTS",
+    "country": "Germany"
+  },
+  {
+    "id": "fwo",
+    "fundingOrganisation": "Research Foundation Flanders",
+    "organisationLocalLanguage": "Fonds Wetenschappelijk Onderzoek - Vlaanderen",
+    "acronym": "FWO",
+    "country": "Belgium"
+  },
+  {
+    "id": "miur",
+    "fundingOrganisation": "Ministry for Education, University and Research",
+    "organisationLocalLanguage": "Ministero dell'Istruzione, dell'Università e della Ricerca",
+    "acronym": "MIUR",
+    "country": "Italy"
+  },
+  {
+    "id": "cihr",
+    "fundingOrganisation": "Canadian Institutes of Health Research",
+    "organisationLocalLanguage": "Canadian Institutes of Health Research",
+    "acronym": "CIHR",
+    "country": "Canada"
+  },
+  {
+    "id": "mpg",
+    "fundingOrganisation": "Max Planck Society for the Advancement of Science",
+    "organisationLocalLanguage": "Max-Planck-Gesellschaft zur Förderung der Wissenschaften e. V.",
+    "acronym": "MPG",
+    "country": "Germany"
+  },
+  {
+    "id": "other",
+    "fundingOrganisation": "Other",
+    "organisationLocalLanguage": "",
+    "acronym": "OTHER",
+    "country": ""
+  },
+  {
+    "id": "isc",
+    "fundingOrganisation": "International Science Council",
+    "organisationLocalLanguage": "International Science Council",
+    "acronym": "ISC",
+    "country": "International but based in France"
+  },
+  {
+    "id": "aka",
+    "fundingOrganisation": "Academy of Finland (AKA)",
+    "organisationLocalLanguage": "Suomen Akatemia",
+    "acronym": "AKA",
+    "country": "Finland"
+  },
+  {
+    "id": "fct",
+    "fundingOrganisation": "Foundation for Science and Technology",
+    "organisationLocalLanguage": "Fundação para a Ciência e a Tecnologia",
+    "acronym": "FCT",
+    "country": "Portugal"
+  },
+  {
+    "id": "h2020",
+    "fundingOrganisation": "Horizon 2020",
+    "organisationLocalLanguage": "Horizon 2020",
+    "acronym": "H2020",
+    "country": "European comission"
+  },
+  {
+    "id": "esa",
+    "fundingOrganisation": "European Space Agency",
+    "organisationLocalLanguage": "European Space Agency",
+    "acronym": "ESA",
+    "country": "Europe"
+  },
+  {
+    "id": "hp",
+    "fundingOrganisation": "Health Programme",
+    "organisationLocalLanguage": "Health Programme",
+    "acronym": "HP",
+    "country": "European comission"
+  },
+  {
+    "id": "vlaio",
+    "fundingOrganisation": "Flanders Innovation & Entrepeneurship",
+    "organisationLocalLanguage": "Agentschap Innoveren & Ondernemen",
+    "acronym": "VLAIO",
+    "country": "Belgium"
+  },
+  {
+    "id": "erdf",
+    "fundingOrganisation": "European Regional Development Fund",
+    "organisationLocalLanguage": "European Regional Development Fund",
+    "acronym": "ERDF",
+    "country": "European comission"
+  },
+  {
+    "id": "onera",
+    "fundingOrganisation": "French National Aerospace Research Center",
+    "organisationLocalLanguage": "Office national d'études et de recherches aérospatiales",
+    "acronym": "ONERA",
+    "country": "France"
+  },
+  {
+    "id": "mšvvaš sr",
+    "fundingOrganisation": "The Ministry of Education, Science, Research and Sports of the Slovak Republic",
+    "organisationLocalLanguage": "Ministerstvo školstva, vedy, výskumu a športu SR",
+    "acronym": "MŠVVaŠ SR",
+    "country": "Slovak Republic"
+  },
+  {
+    "id": "iwt",
+    "fundingOrganisation": "Agency for Innovation by Science and Technology",
+    "organisationLocalLanguage": "Agentschap voor Innovatie door Wetenschap en Technologie",
+    "acronym": "IWT",
+    "country": "Belgium"
+  },
+  {
+    "id": "innoviris",
+    "fundingOrganisation": "Brussels Institute for Research and Innovation",
+    "organisationLocalLanguage": "Institut Bruxellois pour la Recherche et l'Innovation - Brussels Instituut voor Onderzoek en Innovatie",
+    "acronym": "INNOVIRIS",
+    "country": "Belgium"
+  },
+  {
+    "id": "rfcs",
+    "fundingOrganisation": "Research Fund for Coal and Steel",
+    "organisationLocalLanguage": "Research Fund for Coal and Steel",
+    "acronym": "RFCS",
+    "country": "European comission"
+  },
+  {
+    "id": "nwo",
+    "fundingOrganisation": "Netherlands Organisation for Scientific Research",
+    "organisationLocalLanguage": "Nederlandse Organisatie voor Wetenschappelijk Onderzoek",
+    "acronym": "NWO",
+    "country": "Netherlands"
+  },
+  {
+    "id": "ipev",
+    "fundingOrganisation": "French Polar Institute",
+    "organisationLocalLanguage": "Institut Polaire Français - Paul-Emile Victor",
+    "acronym": "IPEV",
+    "country": "France"
+  },
+  {
+    "id": "srcf",
+    "fundingOrganisation": "Swedish Reseach Council Formas",
+    "organisationLocalLanguage": "Forskningsrådet Formas",
+    "acronym": "SRCF",
+    "country": "Sweden"
+  },
+  {
+    "id": "mesr",
+    "fundingOrganisation": "Ministry of Higher Education and Research",
+    "organisationLocalLanguage": "Ministère de l'Enseignement Supérieur et de la Recherche",
+    "acronym": "MESR",
+    "country": "France"
+  },
+  {
+    "id": "rcuk",
+    "fundingOrganisation": "Research Council UK",
+    "organisationLocalLanguage": "Research Council UK",
+    "acronym": "RCUK",
+    "country": "United Kingdom"
+  },
+  {
+    "id": "mrc",
+    "fundingOrganisation": "Medical Research Council",
+    "organisationLocalLanguage": "Medical Research Council",
+    "acronym": "MRC",
+    "country": "United Kingdom"
+  },
+  {
+    "id": "caixa",
+    "fundingOrganisation": "La Caixa Foundation",
+    "organisationLocalLanguage": "Fundació Bancària Caixa d'Estalvis i Pensions de Barcelona",
+    "acronym": "CAIXA",
+    "country": "Spain"
+  },
+  {
+    "id": "vinnova",
+    "fundingOrganisation": "Swedish Governmental Agency for Innovation Systems",
+    "organisationLocalLanguage": "Verket for Innovationssystem",
+    "acronym": "VINNOVA",
+    "country": "Sweden"
+  },
+  {
+    "id": "vs",
+    "fundingOrganisation": "Volkswagen Foundation",
+    "organisationLocalLanguage": "Volkswagen Stiftung",
+    "acronym": "VS",
+    "country": "Germany"
+  },
+  {
+    "id": "ifremer",
+    "fundingOrganisation": "French Research Institute for Exploitation of the Sea",
+    "organisationLocalLanguage": "Institut français de recherche pour l'exploitation de la mer",
+    "acronym": "IFREMER",
+    "country": "France"
+  },
+  {
+    "id": "cncsis",
+    "fundingOrganisation": "National University Research Council",
+    "organisationLocalLanguage": "Consiliul National al Cercetarii Stiintifice din Invatamantul Superior",
+    "acronym": "CNCSIS",
+    "country": "Romania"
+  },
+  {
+    "id": "jsps",
+    "fundingOrganisation": "Japanese Society for the Promotion of Science",
+    "organisationLocalLanguage": "日本学術振興会",
+    "acronym": "JSPS",
+    "country": "Japan"
+  },
+  {
+    "id": "apvv",
+    "fundingOrganisation": "Research and Development Agency",
+    "organisationLocalLanguage": "Agentúra na Podporu Výskumu a Vývoja",
+    "acronym": "APVV",
+    "country": "Slovak Republic"
+  },
+  {
+    "id": "inserm",
+    "fundingOrganisation": "National Institute of Health and Medical Research",
+    "organisationLocalLanguage": "Institut national de la santé et de la recherche médicale",
+    "acronym": "INSERM",
+    "country": "France"
+  },
+  {
+    "id": "isciii",
+    "fundingOrganisation": "Carlos III Health Institute",
+    "organisationLocalLanguage": "Instituto de Salud Carlos III",
+    "acronym": "ISCIII",
+    "country": "Spain"
+  },
+  {
+    "id": "kks",
+    "fundingOrganisation": "Knowledge Foundation",
+    "organisationLocalLanguage": "Stiftelsen för kunskaps- och kompetensutveckling",
+    "acronym": "KKS",
+    "country": "Sweden"
+  },
+  {
+    "id": "cnes",
+    "fundingOrganisation": "National Centre for Space Studies",
+    "organisationLocalLanguage": "Centre national d'études spatiales",
+    "acronym": "CNES",
+    "country": "France"
+  },
+  {
+    "id": "csic",
+    "fundingOrganisation": "Spanish National Research Council",
+    "organisationLocalLanguage": "Consejo Superior de Investigaciones Cientificas",
+    "acronym": "CSIC",
+    "country": "Spain"
+  },
+  {
+    "id": "esrc",
+    "fundingOrganisation": "Economic and Social Research Council",
+    "organisationLocalLanguage": "Economic and Social Research Council",
+    "acronym": "ESRC",
+    "country": "United Kingdom"
+  },
+  {
+    "id": "vega",
+    "fundingOrganisation": "Scientific Grant Agency",
+    "organisationLocalLanguage": "Vedecká grantová agentúra MŠVVaŠ SR a SAV",
+    "acronym": "VEGA",
+    "country": "Slovak Republic"
+  },
+  {
+    "id": "rcn",
+    "fundingOrganisation": "Research Council of Norway",
+    "organisationLocalLanguage": "Norges Forskningsråd",
+    "acronym": "RCN",
+    "country": "Norway"
+  },
+  {
+    "id": "nih",
+    "fundingOrganisation": "National Institutes of Health",
+    "organisationLocalLanguage": "National Institutes of Health",
+    "acronym": "NIH",
+    "country": "United States"
+  },
+  {
+    "id": "fnp",
+    "fundingOrganisation": "Foundation for Polish Science",
+    "organisationLocalLanguage": "Fundacja na rzecz Nauki Polskiej",
+    "acronym": "FNP",
+    "country": "Poland"
+  },
+  {
+    "id": "rannis",
+    "fundingOrganisation": "The Icelandic Centre for Research (Rannis)",
+    "organisationLocalLanguage": "Umsóknarkerfi Rannís",
+    "acronym": "Rannis",
+    "country": "Iceland"
+  },
+  {
+    "id": "ahrc",
+    "fundingOrganisation": "Arts and Humanities Research Council",
+    "organisationLocalLanguage": "Arts and Humanities Research Council",
+    "acronym": "AHRC",
+    "country": "United Kingdom"
+  },
+  {
+    "id": "tacr",
+    "fundingOrganisation": "Technology Agency of the Czech Republic",
+    "organisationLocalLanguage": "Technologická Agentura České Republiky",
+    "acronym": "TACR",
+    "country": "Czech Republic"
+  },
+  {
+    "id": "sshrc",
+    "fundingOrganisation": "Social Sciences and Humanities Research Council",
+    "organisationLocalLanguage": "Social Sciences and Humanities Research Council",
+    "acronym": "SSHRC",
+    "country": "Canada"
+  },
+  {
+    "id": "cdti",
+    "fundingOrganisation": "Center for Industrial Technological Development",
+    "organisationLocalLanguage": "Centro para el Desarrollo Tecnológico Industrial (",
+    "acronym": "CDTI",
+    "country": "Spain"
+  },
+  {
+    "id": "isf",
+    "fundingOrganisation": "Israel Science Foundation",
+    "organisationLocalLanguage": "",
+    "acronym": "ISF",
+    "country": "Israel"
+  },
+  {
+    "id": "srsa",
+    "fundingOrganisation": "Swedish Radiation Safety Authority",
+    "organisationLocalLanguage": "Strålsäkerhetsmyndigheten",
+    "acronym": "SRSA",
+    "country": "Sweden"
+  },
+  {
+    "id": "life",
+    "fundingOrganisation": "LIFE",
+    "organisationLocalLanguage": "LIFE",
+    "acronym": "LIFE",
+    "country": "European comission"
+  },
+  {
+    "id": "mecr",
+    "fundingOrganisation": "Ministry for Education and Scientific Research",
+    "organisationLocalLanguage": "Ministerul Educatiei si Cercetarii Stiintifice",
+    "acronym": "MECR",
+    "country": "Romania"
+  },
+  {
+    "id": "lmt",
+    "fundingOrganisation": "Research Council of Lithuania",
+    "organisationLocalLanguage": "Lietuvos mokslo taryba",
+    "acronym": "LMT",
+    "country": "Lithuania"
+  },
+  {
+    "id": "cf",
+    "fundingOrganisation": "Cohesion Fund",
+    "organisationLocalLanguage": "Cohesion Fund",
+    "acronym": "CF",
+    "country": "European comission"
+  },
+  {
+    "id": "mcst",
+    "fundingOrganisation": "Malta Council for Science and Technology",
+    "organisationLocalLanguage": "Kunsill Malti ghax-Xjenza u t-Teknologija",
+    "acronym": "MCST",
+    "country": "Malta"
+  },
+  {
+    "id": "eaer",
+    "fundingOrganisation": "Federal Department of Economic Affairs, Education and Research",
+    "organisationLocalLanguage": "Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung",
+    "acronym": "EAER",
+    "country": "Switzerland"
+  },
+  {
+    "id": "nasa",
+    "fundingOrganisation": "National Aeronautics and Space Administration",
+    "organisationLocalLanguage": "National Aeronautics and Space Administration",
+    "acronym": "NASA",
+    "country": "United States"
+  },
+  {
+    "id": "inra",
+    "fundingOrganisation": "National institute of Agricultural Research",
+    "organisationLocalLanguage": "Institut national de la recherche agronomique",
+    "acronym": "INRA",
+    "country": "France"
+  },
+  {
+    "id": "fapesp",
+    "fundingOrganisation": "São Paulo Research Foundation",
+    "organisationLocalLanguage": "Fundação de Amparo à Pesquisa do Estado de São Paulo",
+    "acronym": "FAPESP",
+    "country": "Brazil"
+  },
+  {
+    "id": "cea",
+    "fundingOrganisation": "Alternative Energies and Atomic Energy Commission",
+    "organisationLocalLanguage": "Commissariat à l'énergie atomatique et aux énergies alternatives",
+    "acronym": "CEA",
+    "country": "France"
+  },
+  {
+    "id": "ssf",
+    "fundingOrganisation": "Swedish Foundation for Strategic Research",
+    "organisationLocalLanguage": "Stiftelsen för strategisk forskning",
+    "acronym": "SSF",
+    "country": "Sweden"
+  },
+  {
+    "id": "awi",
+    "fundingOrganisation": "Alfred Wegener Institute for Polar and Marine Research",
+    "organisationLocalLanguage": "Alfred-Wegener-Institut, Helmholtz-Zentrum für Polar- und Meeresforschung",
+    "acronym": "AWI",
+    "country": "Germany"
+  },
+  {
+    "id": "nhmrc",
+    "fundingOrganisation": "National Health and Medical Research Council (NHMRC)",
+    "organisationLocalLanguage": "National Health and Medical Research Council",
+    "acronym": "NHMRC",
+    "country": "Australia"
+  },
+  {
+    "id": "dasti",
+    "fundingOrganisation": "Danish Agency for Science, Technology and Innovation",
+    "organisationLocalLanguage": "Styrelsen for Forskning og Uddannelse",
+    "acronym": "DASTI",
+    "country": "Denmark"
+  },
+  {
+    "id": "nerc",
+    "fundingOrganisation": "Natural Environment Research Council",
+    "organisationLocalLanguage": "Natural Environment Research Council",
+    "acronym": "NERC",
+    "country": "United Kingdom"
+  },
+  {
+    "id": "imsr",
+    "fundingOrganisation": "Innovation Fund of the Ministry of Economy of the Slovak Republic",
+    "organisationLocalLanguage": "Inovačný fond Ministerstva hospodárstva SR",
+    "acronym": "IMSR",
+    "country": "Slovak Republic"
+  },
+  {
+    "id": "tara",
+    "fundingOrganisation": "Tara Expeditions Foundation (TARA)",
+    "organisationLocalLanguage": "Fondation Tara Océan",
+    "acronym": "TARA",
+    "country": "France"
+  },
+  {
+    "id": "bf",
+    "fundingOrganisation": "Belmont Forum",
+    "organisationLocalLanguage": "",
+    "acronym": "BF",
+    "country": ""
+  }
+]
