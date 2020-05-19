@@ -1,0 +1,8 @@
+{
+  "id": "provider_structure_type-distributed",
+  "name": "Distributed",
+  "description": "The Provider has multiple physical locations but a unified management structure and a single coordination centre.",
+  "parentId": null,
+  "type": "Provider structure type",
+  "extras": {}
+}

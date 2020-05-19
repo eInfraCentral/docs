@@ -1,0 +1,133 @@
+{
+  "id": "fp.first_service",
+  "name": "First Service",
+  "resourceOrganisation": "fp",
+  "resourceProviders": null,
+  "webpage": "https://fs.com",
+  "description": "First Service test for v3.00",
+  "tagline": "meow meow woof woof",
+  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSKqWyfqSyYmZV4XBvsLM0tdmHPYpREkeAPzHh7wcWUjnzabnR-",
+  "multimedia": [
+    "https://mutlimedia1.com",
+    "https://multimedia2.com"
+  ],
+  "useCases": [
+    "useCase1",
+    "useCase2"
+  ],
+  "scientificSubdomains": [
+    "scientific_subdomain-engineering_and_technology-environmental_biotechnology",
+    "scientific_subdomain-engineering_and_technology-environmental_engineering"
+  ],
+  "subcategories": [
+    "subcategory-training_and_support-consultancy_and_support-methodology_development",
+    "subcategory-access_physical_and_eInfrastructures-material_storage-archiving"
+  ],
+  "targetUsers": [
+    "target_user-research_infrastructure_managers",
+    "target_user-resource_provider_managers"
+  ],
+  "accessTypes": [
+    "access_type-remote",
+    "access_type-virtual"
+  ],
+  "accessModes": [
+    "access_mode-peer_reviewed",
+    "access_mode-free"
+  ],
+  "tags": [
+    "tag1",
+    "tag2"
+  ],
+  "geographicalAvailabilities": [
+    "geographical_availability-EL",
+    "geographical_availability-FR"
+  ],
+  "languages": [
+    "el",
+    "en"
+  ],
+  "resourceGeographicLocations": [
+    "EL",
+    "FR"
+  ],
+  "mainContact": {
+    "firstName": "Mike",
+    "lastName": "Zou",
+    "email": "atosise@gmail.com",
+    "phone": "123456789",
+    "position": "Developer",
+    "organisation": "fp"
+  },
+  "publicContacts": [
+    {
+      "firstName": "Konstantinos",
+      "lastName": "Spyrou",
+      "email": "spyroukon@gmail.com",
+      "phone": "987654321",
+      "position": "Developer",
+      "organisation": "fp"
+    },
+    {
+      "firstName": null,
+      "lastName": null,
+      "email": "jbalasis92@gmail.com",
+      "phone": null,
+      "position": null,
+      "organisation": "fp"
+    }
+  ],
+  "helpdeskEmail": "helpdesk@gmail.com",
+  "securityContactEmail": "security@gmail.com",
+  "phase": "phase-production",
+  "trl": "trl-7",
+  "lifeCycleStatus": "life_cycle_status-beta",
+  "certifications": [
+    "cert1",
+    "cert2"
+  ],
+  "standards": [
+    "standard1",
+    "standard2"
+  ],
+  "openSourceTechnologies": [
+    "CatRIS",
+    "Neanias"
+  ],
+  "version": "v1.0",
+  "lastUpdate": null,
+  "changeLog": [
+    "no changes"
+  ],
+  "requiredServices": null,
+  "relatedServices": null,
+  "relatedPlatforms": [
+    "WeNMR",
+    "DISVIS"
+  ],
+  "fundingBody": [
+    "funding_body-aka",
+    "funding_body-ademe"
+  ],
+  "fundingPrograms": [
+    "funding_program-afis2020",
+    "funding_program-agr"
+  ],
+  "grantProjectNames": [
+    "OpenAIR2020",
+    "OpenAIR2021"
+  ],
+  "helpdeskPage": "https://helpdesk.com",
+  "userManual": "https://usermanual.com",
+  "termsOfUse": "https://termsofuse.com",
+  "privacyPolicy": "https://privacypolicy.com",
+  "accessPolicy": "https://accesspolicydescr.com",
+  "serviceLevel": "https://sla.com",
+  "trainingInformation": "https://traininginfo.com",
+  "statusMonitoring": "https://status.com",
+  "maintenance": "https://maintenance.com",
+  "orderType": "order_type-other",
+  "order": "https://order.com",
+  "paymentModel": "https://paymentmodel.com",
+  "pricing": "https://pricing.com"
+}
