@@ -1,0 +1,49 @@
+{
+  "id": "String (required) - filled by Portal",
+  "name": "String (required)",
+  "abbreviation": "String (required)",
+  "website": "URL (required)",
+  "legalEntity": "Yes or No (required)",
+  "legalStatus": "String (optional)",
+  "description": "String (required)",
+  "logo": "URL (required)",
+  "multimedia": "URL[] (optional)",
+  "scientificSubdomains": "String[] (optional)",
+  "tags": "String[] (optional)",
+  "location": {
+    "streetNameAndNumber": "String (required)",
+    "postalCode": "String (required)",
+    "city": "String (required)",
+    "region": "String (optional)",
+    "country": "String (required)"
+  },
+  "mainContact": {
+    "firstName": "String (required)",
+    "lastName": "String (required)",
+    "email": "String (required)",
+    "phone": "String (optional)",
+    "position": "String (optional)"
+  },
+  "publicContacts": [
+    {
+      "firstName": "String (optional)",
+      "lastName": "String (optional)",
+      "email": "String (required)",
+      "phone": "String (optional)",
+      "position": "String (optional)"
+    }
+  ],
+  "lifeCycleStatus": "String (optional)",
+  "certifications": "String[] (optional)",
+  "hostingLegalEntity": "String (optional)",
+  "participatingCountries": "String[] (optional)",
+  "affiliations": "String[] (optional)",
+  "networks": "String[] (optional)",
+  "structureTypes": "String[] (optional)",
+  "esfriDomains": "String[] (optional)",
+  "esfriType": "String (optional)",
+  "merilScientificSubdomains": "String[] (optional)",
+  "areasOfActivity": "String[] (optional)",
+  "societalGrandChallenges": "String[] (optional)",
+  "nationalRoadmaps": "String[] (optional)"
+}
