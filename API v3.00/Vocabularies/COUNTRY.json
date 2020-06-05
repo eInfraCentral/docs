@@ -1998,5 +1998,45 @@
     "parentId": null,
     "type": "COUNTRY",
     "extras": {}
+  },
+  {
+    "id": "WW",
+    "name": "Worldwide",
+    "description": "All Countries.",
+    "parentId": null,
+    "type": "COUNTRY",
+    "extras": {}
+  },
+  {
+    "id": "EO",
+    "name": "Europe",
+    "description": "All European Countries.",
+    "parentId": null,
+    "type": "COUNTRY",
+    "extras": {}
+  },
+  {
+    "id": "EU",
+    "name": "European Union",
+    "description": "All Countries of the European Union.",
+    "parentId": null,
+    "type": "COUNTRY",
+    "extras": {}
+  },
+  {
+    "id": "EZ",
+    "name": "Euro Zone",
+    "description": "All Countries of the Eurozone.",
+    "parentId": null,
+    "type": "COUNTRY",
+    "extras": {}
+  },
+  {
+    "id": "AH",
+    "name": "Schengen Area",
+    "description": "All Schengen Area countries.",
+    "parentId": null,
+    "type": "COUNTRY",
+    "extras": {}
   }
 ]

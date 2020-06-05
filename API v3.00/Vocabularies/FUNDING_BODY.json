@@ -896,7 +896,7 @@
     "extras": {}
   },
   {
-    "id": "funding_body-srsa",
+    "id": "funding_body-srcf",
     "name": "Swedish Reseach Council Formas (SRCF)",
     "description": "Sweden",
     "parentId": null,

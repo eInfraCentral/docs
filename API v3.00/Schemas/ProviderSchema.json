@@ -3,7 +3,7 @@
   "name": "String (required)",
   "abbreviation": "String (required)",
   "website": "URL (required)",
-  "legalEntity": "Yes or No (required)",
+  "legalEntity": "boolean (required)",
   "legalStatus": "String (optional)",
   "description": "String (required)",
   "logo": "URL (required)",

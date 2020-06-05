@@ -1,23 +1,18 @@
 {
-  "id": "fp",
   "name": "firstProvider",
   "abbreviation": "fp",
   "website": "https://fp.com",
-  "legalEntity": "Yes",
+  "legalEntity": true,
   "legalStatus": "provider_legal_status-public_legal_entity_under_private_law",
   "description": "First Provider test for v3.00",
   "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSKqWyfqSyYmZV4XBvsLM0tdmHPYpREkeAPzHh7wcWUjnzabnR-",
   "multimedia": [
-    "https://multimedia1.com",
-    "https://multimedia2.com"
+    "https://multimedia1.com"
   ],
   "scientificSubdomains": [
-    "scientific_subdomain-engineering_and_technology-environmental_biotechnology",
-    "scientific_subdomain-engineering_and_technology-environmental_engineering"
+    "scientific_subdomain-engineering_and_technology-environmental_biotechnology"
   ],
   "tags": [
-    "tag1",
-    "tag2",
     "tag3"
   ],
   "location": {
@@ -45,39 +40,41 @@
   ],
   "lifeCycleStatus": "provider_life_cycle_status-being_upgraded",
   "certifications": [
-    "cert1",
-    "cert2"
+    "cert1"
   ],
   "hostingLegalEntity": "Me",
   "participatingCountries": [
-    "EL",
-    "FR"
+    "EL"
   ],
   "affiliations": null,
   "networks": [
-    "provider_network-fao",
     "provider_network-aquaexcel"
   ],
-  "structureTypes": "provider_structure_type-virtual",
+  "structureTypes": [
+    "provider_structure_type-virtual"
+  ],
   "esfriDomains": [
-    "provider_esfri_domain-data_computing_and_digital_research_infrastructures",
-    "provider_esfri_domain-physical_sciences_and_engineering"
+    "provider_esfri_domain-data_computing_and_digital_research_infrastructures"
   ],
   "esfriType": "provider_esfri_type-node",
   "merilScientificSubdomains": [
-    "provider_meril_scientific_subdomain-earth_and_environmental_sciences-natural_history_collections",
-    "provider_meril_scientific_subdomain-earth_and_environmental_sciences-research_aircraft"
+    "provider_meril_scientific_subdomain-earth_and_environmental_sciences-natural_history_collections"
   ],
   "areasOfActivity": [
-    "provider_area_of_activity-technological_development",
     "provider_area_of_activity-applied_research"
   ],
   "societalGrandChallenges": [
-    "provider_societal_grand_challenge-natural_resources",
-    "provider_societal_grand_challenge-europe_in_a_changing_world"
+    "provider_societal_grand_challenge-natural_resources"
   ],
   "nationalRoadmaps": [
-    "roadmap1",
-    "roadmap2"
+    "roadmap1"
+  ],
+  "users": [
+    {
+      "email": "atosise@gmail.com",
+      "id": "1",
+      "name": "Mike",
+      "surname": "Z"
+    }
   ]
 }
