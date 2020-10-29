@@ -1,0 +1,8 @@
+{
+    "id": "funding_body-ademe",
+    "name": "Agency for Environment and Energy Management (ADEME)",
+    "description": "France",
+    "parentId": null,
+    "type": "Funding body",
+    "extras": {}
+}
